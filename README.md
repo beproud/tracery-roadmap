@@ -1,18 +1,16 @@
-# TRACERY 開発ロードマップ
+# TRACERY(トレーサリー) リリース
 
-- ロードマップとリリースのお知らせを投稿するためのリポジトリです。
-
-## ロードマップ
-
-* https://github.com/beproud/tracery-roadmap/projects/1
+システム開発のためのドキュメントサービス  [TRACERY(トレーサリー)](https://tracery.jp/) のサービス改善内容を
+お知らせするためのリポジトリです。
 
 ## リリースノート
 
+GitHub の [Releases](https://github.com/beproud/tracery-roadmap/releases) を参照してください。
 
-### 2021-06-18
+## TRACERYとは?
 
-* https://github.com/beproud/tracery-roadmap/releases/tag/v2021.06.18
+思考が速く、堅実な開発チームへTRACERYは、システム開発のための ドキュメントサービスです。
 
-### 2021-06-02
+クラウド上でサクサク設計、手軽に情報をつなぎます。情報共有の手間を減らし、チーム開発にトレーサビリティを導入します。
 
-* https://github.com/beproud/tracery-roadmap/releases/tag/v2021.06.02
+[![TRACERY](https://tracery.jp/lp/static/ogp.png)](https://tracery.jp/)
