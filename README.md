@@ -9,7 +9,7 @@ GitHub の [Releases](https://github.com/beproud/tracery-roadmap/releases) を�
 
 ## TRACERYとは?
 
-思考が速く、堅実な開発チームへTRACERYは、システム開発のための ドキュメントサービスです。
+TRACERYは、システム開発のための ドキュメントサービスです。
 
 クラウド上でサクサク設計、手軽に情報をつなぎます。情報共有の手間を減らし、チーム開発にトレーサビリティを導入します。
 
